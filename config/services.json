@@ -1,0 +1,9 @@
+{
+  "services": [
+    "Spooler",
+    "EventLog",
+    "Dhcp",
+    "W32Time",
+    "Winmgmt"
+  ]
+}
